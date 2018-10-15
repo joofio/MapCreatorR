@@ -1,4 +1,4 @@
 # WIP
 ## MapCreatorR
 
-Trying to create beautiful image of places on earth
+Trying to create beautiful images of places on earth
